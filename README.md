@@ -1,7 +1,7 @@
 # 📘 Rapport de projet — *Mood Sharing App*  
 **Auteur** : Fares     
 **Lien du site fonctionel** : [🌐 Mood Sharing App](https://v0-emoji-code-mood-app.vercel.app)  
-**Lien du site déployé sur GitHub** pour montrer que le déploiement a bien été effectué, mais le site n'est pas fonctionnel car il affiche une page blanche : [❌Site déployé GitHub]([https://v0-emoji-code-mood-app.vercel.app](https://farboussou.github.io/mood-sphere-56/))  
+**Lien du site déployé sur GitHub** pour montrer que le déploiement a bien été effectué, mais le site n'est pas fonctionnel car il affiche une page blanche : [❌Site déployé GitHub](https://v0-emoji-code-mood-app.vercel.app](https://farboussou.github.io/mood-sphere-56/))  
 
 ---
 
